@@ -67,7 +67,7 @@
       /* Sección hero */
       .hero {
         height: 30vh;
-        background-image: url('imgs/pngs/campo-flores.png');
+        background-image: url('campo-flores.png');
         background-size: cover;
         background-position: center;
         display: flex;
@@ -93,7 +93,7 @@
         margin-right: 2%;
         margin-top: auto;
         text-align: center;
-        background-image: url(imgs/pngs/paisaje-flores.png);
+        background-image: url(paisaje-flores.png);
         background-repeat: no-repeat;
         background-size: cover;
       }
