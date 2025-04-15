@@ -93,7 +93,7 @@
         margin-right: 2%;
         margin-top: auto;
         text-align: center;
-        background-image: url(paisaje-flores.png);
+        background-image: url('paisaje-flores.png');
         background-repeat: no-repeat;
         background-size: cover;
       }
