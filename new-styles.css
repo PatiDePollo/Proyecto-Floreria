@@ -80,6 +80,7 @@
         color: white;
         background-color: rgba(0, 0, 0, 0.5);
         padding: 1rem;
+        border-radius: 15px;
       }
       .hero img{
         width: 30%;
