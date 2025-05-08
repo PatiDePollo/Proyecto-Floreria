@@ -99,6 +99,7 @@
         background-image: url('paisaje-flores.png');
         background-repeat: no-repeat;
         background-size: cover;
+        border-radius: 15px;
       }
       .informacion h2{
         text-align: center;
@@ -200,6 +201,7 @@
         color: white;
         text-align: center;
         padding: 1.5rem;
+        border-radius: 15px;
       }
       /* Media queries para responsividad */
       @media (min-width: 576px) {
