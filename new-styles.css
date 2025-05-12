@@ -69,7 +69,7 @@
       /* Sección hero */
       .hero {
         height: 30vh;
-        background-image: url('campo-flores.png');
+        background-image: url('https://thumbs.dreamstime.com/b/campo-verde-primavera-con-dientes-amarillos-en-un-d%C3%ADa-soleado-banner-horizontal-largo-fondo-floral-natural-principios-de-226078077.jpg');
         background-size: cover;
         background-position: center;
         display: flex;
